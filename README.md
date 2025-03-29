@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm **Syn Naulaid**
+### 🚀 Web Server Developer & Cyber Security Enthusiast
 
-<!--
-**synnaulaid/synnaulaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 About Me:
+- 🖥 Passionate about **web server development** & **cybersecurity**
+- ⚡ Always exploring **Linux, networking, and penetration testing**
+- 📚 Learning new technologies & securing the digital world
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats:
+![Syn Naulaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=synnaulaid&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=synnaulaid&layout=compact&theme=tokyonight)](https://github.com/your-username)
+
+---
+
+### 🏆 Achievements:
+[![Trophies](https://github-profile-trophy.vercel.app/?username=synnaulaid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🔗 Connect With Me:
+[![syn.naulaid@yandex.com](https://img.shields.io/badge/Mail-Yandex-yellow?style=flat-square&logo=syn.naulaid@yandex.com)](mailto:syn.naulaid@yandex.com)
+
+
+---
+
+🚀 *Let's build and secure the web together!*
