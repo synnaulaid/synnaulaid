@@ -13,7 +13,7 @@
 ### 📊 GitHub Stats:
 ![Syn Naulaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=synnaulaid&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=synnaulaid&layout=compact&theme=tokyonight)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=synnaulaid&layout=compact&theme=tokyonight)](https://github.com/synnaulaid)
 
 ---
 
