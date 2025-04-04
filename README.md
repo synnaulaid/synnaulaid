@@ -3,29 +3,41 @@
 
 ---
 
-### 🔥 About Me:
-- 🖥 Passionate about **web server development** & **cybersecurity**
-- ⚡ Always exploring **Linux, networking, and penetration testing**
-- 📚 Learning new technologies & securing the digital world
+### 🔥 About Me
+- 💻 Fokus di **web server development** & **cybersecurity**
+- 🐧 Aktif ngoprek **Linux**, networking, dan penetration testing
+- 📚 Terus belajar teknologi baru & menjaga keamanan dunia digital
 
 ---
 
-### 📊 GitHub Stats:
-![Syn Naulaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=synnaulaid&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=synnaulaid&layout=compact&theme=tokyonight)](https://github.com/synnaulaid)
+### 🛠️ Tools & Technologies
+- PHP, Python, Bash
+- Linux (Debian/Ubuntu), Server Hardening
+- HTML, CSS, JavaScript (basic), SEO
+- Pentesting, Bug Bounty, OSINT
+- MySQL, SQLite
 
 ---
 
-### 🏆 Achievements:
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=synnaulaid&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synnaulaid&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🏆 Achievements
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=synnaulaid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-### 🔗 Connect With Me:
-[![syn.naulaid@yandex.com](https://img.shields.io/badge/Mail-Yandex-yellow?style=flat-square&logo=syn.naulaid@yandex.com)](mailto:syn.naulaid@yandex.com)
+### 📫 Reach Me
+📧 [syn.naulaid@yandex.com](mailto:syn.naulaid@yandex.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=synnaulaid&color=blue&style=flat-square)
 
 ---
 
-🚀 *Let's build and secure the web together!*
+> 🚀 *Let's build and secure the web together!*
