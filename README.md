@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Syn Naulaid**
 ### 🚀 Web Server Developer & Cyber Security Enthusiast
-
+> Mimpi gua simpel: kerja remote halal dari rumah, dengan skill yang gua punya 🙏
 ---
 
 ### 🔥 About Me
