@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm **Syn Naulaid**
+[![Check out synnaulaid's profile on stardev.io](https://stardev.io/developers/synnaulaid/badge/languages/locality.svg)](https://stardev.io/developers/synnaulaid)
 ### 🚀 Web Server Developer & Cyber Security Enthusiast
 > Mimpi gua simpel: kerja remote halal dari rumah, dengan skill yang gua punya 🙏
 ---
@@ -19,13 +20,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=synnaulaid&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synnaulaid&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ### 🏆 Achievements
 
