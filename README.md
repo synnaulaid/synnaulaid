@@ -9,9 +9,9 @@
 
 
 
-<b>📫 Reach Me </b>
+📫 Reach Me
 
-📧 [syn@warceuproject.org](mailto:syn@warceuproject.org)
+<i> [syn@warceuproject.org](mailto:syn@warceuproject.org) </i>
 ---
 
 
