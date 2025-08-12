@@ -11,7 +11,7 @@
 
 <b>📫 Reach Me </b>
 
-📧 [syn.naulaid@yandex.com](mailto:syn.naulaid@yandex.com)
+📧 [syn@warceuproject.org](mailto:syn@warceuproject.org)
 ---
 
 
